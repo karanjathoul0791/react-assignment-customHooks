@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-assignment-customHooks/static/css/main.b1078c8c.chunk.css",
+    "main.js": "/react-assignment-customHooks/static/js/main.19afb227.chunk.js",
+    "main.js.map": "/react-assignment-customHooks/static/js/main.19afb227.chunk.js.map",
+    "runtime-main.js": "/react-assignment-customHooks/static/js/runtime-main.7aec8724.js",
+    "runtime-main.js.map": "/react-assignment-customHooks/static/js/runtime-main.7aec8724.js.map",
+    "static/js/2.87db8e12.chunk.js": "/react-assignment-customHooks/static/js/2.87db8e12.chunk.js",
+    "static/js/2.87db8e12.chunk.js.map": "/react-assignment-customHooks/static/js/2.87db8e12.chunk.js.map",
+    "static/js/3.5833b2bc.chunk.js": "/react-assignment-customHooks/static/js/3.5833b2bc.chunk.js",
+    "static/js/3.5833b2bc.chunk.js.map": "/react-assignment-customHooks/static/js/3.5833b2bc.chunk.js.map",
+    "index.html": "/react-assignment-customHooks/index.html",
+    "static/css/main.b1078c8c.chunk.css.map": "/react-assignment-customHooks/static/css/main.b1078c8c.chunk.css.map",
+    "static/js/2.87db8e12.chunk.js.LICENSE.txt": "/react-assignment-customHooks/static/js/2.87db8e12.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7aec8724.js",
+    "static/js/2.87db8e12.chunk.js",
+    "static/css/main.b1078c8c.chunk.css",
+    "static/js/main.19afb227.chunk.js"
+  ]
+}
